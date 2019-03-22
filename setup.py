@@ -1,9 +1,9 @@
 import codecs
 import os
 import sys
-
 from distutils.util import convert_path
 from fnmatch import fnmatchcase
+
 from setuptools import setup, find_packages
 
 
