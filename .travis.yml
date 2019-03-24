@@ -16,7 +16,7 @@ install:
 
 script:
   - pipenv run flake8 .
-  - pipenv run pytest libpythonpro_barthjr --cov=libpythonpro-barthjr
+  - pipenv run pytest libpythonpro_barthjr --cov=libpythonpro_barthjr
 
 after_success:
   - pipenv run codecov
