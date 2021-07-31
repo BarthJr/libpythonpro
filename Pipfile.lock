@@ -96,10 +96,10 @@
         },
         "tqdm": {
             "hashes": [
-                "sha256:0a860bf2683fdbb4812fe539a6c22ea3f1777843ea985cb8c3807db448a0f7ab",
-                "sha256:e288416eecd4df19d12407d0c913cbf77aa8009d7fddb18f632aded3bdbdda6b"
+                "sha256:3642d483b558eec80d3c831e23953582c34d7e4540db86d9e5ed9dad238dabc6",
+                "sha256:706dea48ee05ba16e936ee91cb3791cd2ea6da348a0e50b46863ff4363ff4340"
             ],
-            "version": "==4.32.1"
+            "version": "==4.62.0"
         },
         "twine": {
             "hashes": [
